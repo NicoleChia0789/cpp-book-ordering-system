@@ -1,0 +1,20 @@
+1 The Last Kingdom|Fiction 34.90 5
+2 My Cat Is Secretly an Alien|Fiction 28.50 9
+3 The Girl Who Spoke to Shadow|Fiction 32.90 5
+4 How to Marry a Dragon|Fiction 26.40 10
+5 The Science of Learning|Non-fiction 40.00 7
+6 How to Lie with Statistics|Non-fiction 33.30 5
+7 Understanding Human Behavior|Non-fiction 38.80 9
+8 Why need to go to SCHOOL|Non-fiction 25.00 0
+9 Adventures in Alphabet Land|Children 21.00 8
+10 Why Monsters Need Do Homework|Children 18.90 10
+11 The Magical Pencil|Children 20.50 8
+12 How to Train Your Teddy Bear|Children 19.99 6
+13 A Thousand Autumns|Novel 36.60 17
+14 I Fell in Love with a Sandwich|Novel 27.70 7
+15 The Silence Between Stars|Novel 34.20 6
+16 My Ex Turned Into a Vampire|Novel 29.90 4
+17 C++ Programming Handbook|Reference 50.00 8
+18 My Code Works Only at Midnight|Reference 24.40 4
+19 Advanced Algorithms|Reference 48.80 0
+20 C++ Projects for Lazy Students|Reference 31.10 5

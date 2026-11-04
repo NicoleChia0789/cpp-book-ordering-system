@@ -1,0 +1,7 @@
+﻿  customer.cpp
+C:\Users\NicoleChia\source\repos\Project1\Project1\customer.cpp(194,23): warning C4101: 'month': unreferenced local variable
+  data.cpp
+  main.cpp
+  staff.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\NicoleChia\source\repos\Project1\x64\Debug\Project1.exe
